@@ -23,12 +23,12 @@
  - 💻 I am programmer to program in Java and Java script I have experience making minecraft plugins.
  - ⚙️ He also programmed servers as well as web sites.
  - 👷 I am minecraft builder I do structures like large constructions.
- - 🌱 I like nature and its beautiful landscapes breathe while watching the sunset is relaxing.
- - 🧑‍🔧 I am learning to program in c++ and python.
- - ☕ I like coffee.
  <p align="left">
   <img src="https://i.postimg.cc/VkRhyGPG/dextmu-e-4.png" alt="Dexstdev Logo">
 </p>
+ - 🌱 I like nature and its beautiful landscapes breathe while watching the sunset is relaxing.
+ - 🧑‍🔧 I am learning to program in c++ and python.
+ - ☕ I like coffee.
 
 ### 👨‍💻 Programming Languages
 
