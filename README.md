@@ -15,4 +15,4 @@
 </p>
   <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86								
 
-[![1-sin-t-tulo-20241223162458.png](https://i.postimg.cc/BbWvV0D1/1-sin-t-tulo-20241223162458.png)](https://postimg.cc/zbj5y4xJ)
+- 💻 To program in Java I am learning because I know people with more knowledge by now I am junior level.
