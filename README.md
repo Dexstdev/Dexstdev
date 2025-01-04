@@ -27,7 +27,7 @@
  - 🧑‍🔧 I am learning to program in c++ and python.
  - ☕ I like coffee.
  <p align="left">
-  <img src="https://i.postimg.cc/VNQx1rJv/dextmu-e.png" alt="Dexstdev Logo">
+  <img src="https://i.postimg.cc/BncrSZHC/dextmu-e-1.png" alt="Dexstdev Logo">
 </p>
 
 ### 👨‍💻 Programming Languages
