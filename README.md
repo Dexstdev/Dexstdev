@@ -18,7 +18,9 @@
 		<img src="https://img.shields.io/github/followers/Dexstdev?label=Followers" alt="Dexstdev" />
 	</a>
 
- <p align="center">
-  <img  src="https://raw.githubusercontent.com/Dexstdev/Dexstdev/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+ - 💻 I am programmer to program in Java and Java script I have experience making minecraft plugins.
+ - ⚙️ He also programmed servers as well as web sites.
+ - 👷 I am minecraft builder I do structures like large constructions.
+ - 🌱 I like nature and its beautiful landscapes breathe while watching the sunset is relaxing.
+ - 🧑‍🔧 I am learning to program in c++ and python.
+ - ☕ I like coffee.
