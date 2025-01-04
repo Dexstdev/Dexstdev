@@ -3,8 +3,8 @@
 	<a href="https://github.com/Dexstdev">
 		<img src="https://komarev.com/ghpvc/?username=dexstdev&label=Profile%20views&color=0e75b6&style=flat" alt="dexstdev" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	<a href="https://github.com/Dexstdev">
+		<img src="https://img.shields.io/github/followers/Dexstdev?label=Followers" alt="Dexstdev" />
 	</a>
 </p>
   <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86
