@@ -1,4 +1,7 @@
-<h1 align="center"> Hey there Welcome to my Github Profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hey there Welcome to my Github Profile
+<a href='https://postimg.cc/zbj5y4xJ' target='_blank'><img src='https://i.postimg.cc/zbj5y4xJ/1-sin-t-tulo-20241223162458.png' border='0' alt='1-sin-t-tulo-20241223162458'/></a>	
+	
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 	<a href="https://github.com/Dexstdev">
 		<img src="https://komarev.com/ghpvc/?username=dexstdev&label=Profile%20views&color=0e75b6&style=flat" alt="dexstdev" />
@@ -8,4 +11,3 @@
 	</a>
 </p>
   <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
