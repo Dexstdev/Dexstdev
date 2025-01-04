@@ -42,7 +42,10 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
+<p align="center">
+	
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dexstdev&show_icons=true&theme=merko)
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexstdev&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
