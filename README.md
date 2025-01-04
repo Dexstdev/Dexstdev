@@ -40,6 +40,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
  <p align="left">
-	 <img scr="https://i.postimg.cc/VNQx1rJv/dextmu-e.png" />
+   <img scr="https://i.postimg.cc/VNQx1rJv/dextmu-e.png" alt=dexstdevmuñe>
  </p>
+ 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
