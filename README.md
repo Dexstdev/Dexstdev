@@ -45,9 +45,9 @@
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dexstdev&show_icons=true&theme=merko" alt="Anurag's GitHub stats">
 </p>
-
-  <img scr="https://i.postimg.cc/4yL7tRD7/file-2.png" alt="file-2">
-  
+<p align="right">
+  <img src="https://i.postimg.cc/4yL7tRD7/file-2.png" alt="Dexstdev Logo">
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexstdev&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
