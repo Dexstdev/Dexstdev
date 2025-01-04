@@ -2,6 +2,9 @@
 	🔴🟡🟢
 </div>
 
+<div>
+ <img scr="[![1-sin-t-tulo-20241223162458.png](https://i.postimg.cc/BbWvV0D1/1-sin-t-tulo-20241223162458.png)](https://postimg.cc/zbj5y4xJ)">
+</div>
 <h1 align="center"> Hey there Welcome to my Github Profile	
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
