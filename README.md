@@ -3,7 +3,7 @@
 </div>
  
 <p align="center">
-  <img src="" alt="Dexstdev Logo">
+  <img src="https://i.postimg.cc/q7xH26XY/dexstdevbaner.png" alt="Dexstdev Logo">
 </p>
 
 <h1 align="center"> Hey there Welcome to my Github Profile	
