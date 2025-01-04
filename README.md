@@ -15,5 +15,5 @@
 </p>
   <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86
 
-<p align="center">
-        <img scr="[![dexstdevbaner.png](https://i.postimg.cc/43DHHMPw/dexstdevbaner.png)](https://postimg.cc/7CNZpKpT)" />
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
