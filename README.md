@@ -1,7 +1,7 @@
 <div>
 	🔴🟡🟢
 </div>
-
+ <img scr="https://i.postimg.cc/43DHHMPw/dexstdevbaner.png">
 <h1 align="center"> Hey there Welcome to my Github Profile	
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,6 +14,3 @@
 	</a>
 </p>
   <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86
-
-## About Me
-- 💻 To program in Java I am learning because I know people with more knowledge by now I am junior level.
