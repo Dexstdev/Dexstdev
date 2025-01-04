@@ -17,3 +17,8 @@
 	<a href="https://github.com/Dexstdev">
 		<img src="https://img.shields.io/github/followers/Dexstdev?label=Followers" alt="Dexstdev" />
 	</a>
+
+ <p align="center">
+  <img  src="https://raw.githubusercontent.com/Dexstdev/Dexstdev/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
