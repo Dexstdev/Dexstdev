@@ -43,6 +43,6 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dexstdev&show_icons=true&theme=merko)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexstdev &layout=compact&theme=merko&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexstdev &layout=compact&theme=merko&bg_color=0A0A0A" alt="Dexstdev Top language"/>
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
