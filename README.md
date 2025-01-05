@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-	<img scr="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
