@@ -19,9 +19,7 @@
 	</a>
 
 ### 📂 About Me
-
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>>
-
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
  - 💻 I am programmer to program in Java and Java script I have experience making minecraft plugins.
  - ⚙️ He also programmed servers as well as web sites.
  - 👷 I am minecraft builder I do structures like large constructions.
