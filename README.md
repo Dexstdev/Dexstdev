@@ -18,7 +18,8 @@
 		<img src="https://img.shields.io/github/followers/Dexstdev?label=Followers" alt="Dexstdev" />
 	</a>
 
-### 📂 About Me
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
   - 💻 I am programmer to program in Java and Java script I have experience making minecraft plugins.
   - ⚙️ He also programmed servers as well as web sites.
