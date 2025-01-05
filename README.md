@@ -69,5 +69,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
-
-![snake animation](https://github.com/<seu Dexstdev>/<seu Dexstdev>/blob/output/github-contribution-grid-snake2.svg)
