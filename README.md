@@ -45,6 +45,8 @@
   <img src="https://i.postimg.cc/4yL7tRD7/file-2.png" alt="Dexstdev Logo">
 </p>
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dexstdev&show_icons=true&theme=merko" alt="Anurag's GitHub stats">
 </p>
