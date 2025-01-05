@@ -30,8 +30,7 @@
 </p>
   - 🌱 I like nature and its beautiful landscapes breathe while watching the sunset is relaxing.
   - ♥️ People know how I am that's why they're with me.
-  - 🧒 I like programming in minecraft.
- 
+  
 ### 👨‍💻 Programming Languages
 
 <p>
