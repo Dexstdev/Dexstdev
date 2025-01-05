@@ -29,8 +29,7 @@
  - 🌱 I like nature and its beautiful landscapes breathe while watching the sunset is relaxing.
  - 🧑‍🔧 I am learning to program in c++ and python.
  - ☕ I like coffee.
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
+ 
 ### 👨‍💻 Programming Languages
 
 <p>
