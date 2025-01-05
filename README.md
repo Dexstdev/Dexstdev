@@ -29,6 +29,7 @@
   <img src="https://i.postimg.cc/VkRhyGPG/dextmu-e-4.png" alt="Dexstdev Logo">
 </p>
   - 🌱 I like nature and its beautiful landscapes breathe while watching the sunset is relaxing.
+  - ♥️ People know how I am that's why they're with me.
  
 ### 👨‍💻 Programming Languages
 
