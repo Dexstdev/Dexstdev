@@ -27,8 +27,8 @@
   <img src="https://i.postimg.cc/VkRhyGPG/dextmu-e-4.png" alt="Dexstdev Logo">
 </p>
  - 🌱 I like nature and its beautiful landscapes breathe while watching the sunset is relaxing.
+ - ☕ I like coffe.
  - 🧑‍🔧 I am learning to program in c++ and python.
- - ☕ I like coffee.
  
 ### 👨‍💻 Programming Languages
 
