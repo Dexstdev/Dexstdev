@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.postimg.cc/5NKLt9Sq/Dexst-Dev-20250215215819.png">
+  <img src="https://i.postimg.cc/2ywX9TXY/dexstbanner.png" alt="Dexstdev Logo">
 </p>
