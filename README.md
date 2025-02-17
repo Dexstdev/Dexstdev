@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/2ywX9TXY/dexstbanner.png" alt="Dexstdev Logo">
+  <img src="https://i.postimg.cc/2ywX9TXY/dexstbanner.png" alt="Dexst Banner">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
