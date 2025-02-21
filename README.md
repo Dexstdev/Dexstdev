@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/QNn0nFhK/Dexst-Dev-20250220181931.png>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center"> Hey there Welcome to my Github Profile	
