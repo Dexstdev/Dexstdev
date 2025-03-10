@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  I like to build in Java minecraft game a little on bedrock I started to like the development when I started doing plugins addons.
+  Passionate about construction in Java minecraft and development explorer in bedrock. He discovered his taste for programming by creating plugins and ons. Always looking for new creative challenges.
 </p>
 <h1 align="center"> Hey there Welcome to my Github Profile	
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
