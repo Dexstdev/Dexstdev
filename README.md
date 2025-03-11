@@ -40,6 +40,9 @@
   Passionate about development and creativity in minecraft. I love programming plugins and ons, exploring the world of Java and enjoying a good cup of coffee while creating new experiences in the game.
 </p>
 <p align="center">
+  <img src="https://i.postimg.cc/KvyyXT22/chvdev7-20250310211830.png">
+</p>
+<p align="center">
  I really like coffee as it's very cold so that's what I prefer the most.
 </p>
 
