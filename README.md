@@ -34,5 +34,13 @@
 - 💁‍♂️ I like to use more vs code.
 - ✍ Currently I would like to study graphic design and programming.
 - ❤ I like coffee.
-
+<p align="right">
+  Passionate about development and creativity in minecraft. I love programming plugins and ons, exploring the world of Java and enjoying a good cup of coffee while creating new experiences in the game.
+</p>
+<p align="right">
+ - I really like coffee as it's very cold so that's what I prefer the most.
+</p>
+<p align="left">
+  <img scr="https://i.postimg.cc/y6SmZ49j/62-sin-t-tulo-20250310205405.png">
+</p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
