@@ -28,6 +28,8 @@
   Currently I would like to be in a relationship but for now I am fine and I do not know why but I laugh some serious things but I like to get a good time out of people.
 </p>
 
+# About me
+
 - ✨ I like to study computer :)
 - 🌱 It's beautiful to go out and watch the sunset while you have a glass of coffee.
 - 🏙 I would like to buy a house and have a beautiful family.
@@ -38,7 +40,7 @@
   Passionate about development and creativity in minecraft. I love programming plugins and ons, exploring the world of Java and enjoying a good cup of coffee while creating new experiences in the game.
 </p>
 <p align="center">
- - I really like coffee as it's very cold so that's what I prefer the most.
+ I really like coffee as it's very cold so that's what I prefer the most.
 </p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
