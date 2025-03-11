@@ -24,13 +24,15 @@
  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 </p>
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">
+  Currently I would like to be in a relationship but for now I am fine and I do not know why but I laugh some serious things but I like to get a good time out of people.
+</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
+- ✨ I like to study computer :)
+- 🌱 It's beautiful to go out and watch the sunset while you have a glass of coffee.
+- 🏙 I would like to buy a house and have a beautiful family.
+- 💁‍♂️ I like to use more vs code.
+- ✍ Currently I would like to study graphic design and programming.
+- ❤ I like coffee.
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
