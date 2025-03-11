@@ -37,9 +37,11 @@
 <p align="center">
   Passionate about development and creativity in minecraft. I love programming plugins and ons, exploring the world of Java and enjoying a good cup of coffee while creating new experiences in the game.
 </p>
+
 <p align="center">
-  <img src="https://i.postimg.cc/y6SmZ49j/62-sin-t-tulo-20250310205405.png" width="300">
+  <img src="https://i.postimg.cc/y6SmZ49j/62-sin-t-tulo-20250310205405.png" alt="Imagen centrada">
 </p>
+
 <p align="center">
  - I really like coffee as it's very cold so that's what I prefer the most.
 </p>
