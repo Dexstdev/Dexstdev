@@ -42,7 +42,4 @@
 <p align="center">
   <img scr="https://i.postimg.cc/fyKLhFKh/Yellow-Greyscale-Bold-Landscape-Photography-Facebook-Cover.png">
 </p>
-<p align="center">
- I really like coffee as it's very cold so that's what I prefer the most.
-</p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
