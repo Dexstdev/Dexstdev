@@ -39,7 +39,4 @@
 <p align="center">
   Passionate about development and creativity in minecraft. I love programming plugins and ons, exploring the world of Java and enjoying a good cup of coffee while creating new experiences in the game.
 </p>
-<p align="center">
-  <img scr="https://i.postimg.cc/fyKLhFKh/Yellow-Greyscale-Bold-Landscape-Photography-Facebook-Cover.png">
-</p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
