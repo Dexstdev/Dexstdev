@@ -1,3 +1,1 @@
-# hola
-
-por ahora estoy rediseñando mi readme 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+developer+of+plugins+and+plugins+in+minecraft" alt="Typing SVG" /></a>
